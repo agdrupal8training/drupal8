@@ -1,2 +1,0 @@
-This is our common training document. (3)
-(added machine 11)
