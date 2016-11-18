@@ -1,1 +1,2 @@
-THis is our Training Document, tracking each machine and adding ssh.
+This is our common training document.
+So far - computers 1, 2, 3, 11,5 and now 4. 
