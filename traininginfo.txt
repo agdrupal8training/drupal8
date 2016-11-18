@@ -2,4 +2,4 @@ This is our common training document.
 So far - computers 1, 2, 3, 11,5 and now 4. 
 adding training laptop....
 now adding 9
-now adding 8
+now adding 12
